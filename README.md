@@ -1,158 +1,67 @@
 ## Hi there 👋
 # 🌿 INSELFO-COM
 ## Firmware Humano · Tomo 4 &nbsp;·&nbsp; Los 6 Gases de Pezesco
+<h1 align="center">Hi 👋, I'm Ittalo Pezzotti</h1>
+<h3 align="center">I dedicate myself to the programming of devices</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ittalopezzotti&label=Profile%20views&color=0e75b6&style=flat" alt="ittalopezzotti" /> </p>
 
-![Firmware Humano](https://img.shields.io/badge/Firmware%20Humano-Tomo%204-purple?style=for-the-badge)
-![Los 6 Gases](https://img.shields.io/badge/Los%206%20Gases-De%20Pezesco-gold?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-Mega%202560-00979D?style=for-the-badge&logo=arduino)
-![Estado](https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=for-the-badge)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ittalopezzotti" alt="ittalopezzotti" /></a> </p>
 
-**Dos proyectos · Un mismo investigador · Un mismo propósito**
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-[👤 Autor](https://github.com/ittalopezzotti)
-&nbsp;·&nbsp;
-[Tomo 1](https://github.com/orgs/BIOTECNOLIFE)
-&nbsp;·&nbsp;
-[Tomo 2](https://github.com/orgs/PEZESCOBAR)
-&nbsp;·&nbsp;
-[📺 YouTube](#)
+- 🔭 I’m currently working on **UCOMICASEG**
 
-</div>
+- 👯 I’m looking to collaborate on **HASNECOOD**
 
----
+- 👨‍💻 All of my projects are available at [https://rss.com/podcasts/pezescodev/](https://rss.com/podcasts/pezescodev/)
 
-## 📚 Dos series en este repositorio
+- 📝 I regularly write articles on [https://rss.com/podcasts/pezescodev/](https://rss.com/podcasts/pezescodev/)
 
-### Serie 1 — Firmware Humano Programado · Tomo 4
+- 💬 Ask me about **Arduino, Atmel, STM**
 
-El cuarto volumen de la serie de 5 tomos que traduce
-la experiencia humana a código Arduino verificable.
+- 📫 How to reach me **ifpezzottie@gmail.com**
 
-Mientras el **Tomo 1** mostró los patrones sin salida
-y el **Tomo 2** codificó la trampa y la resolución,
-el **Tomo 4** profundiza en las dimensiones más sutiles
-del firmware — los patrones que operan a nivel del sistema
-completo, no solo de experiencias individuales.
+- 📄 Know about my experiences [www.biotecnolife.com](www.biotecnolife.com)
 
-> 🔄 **En desarrollo activo** — experimentos y documentación
-> se publican progresivamente.
+- ⚡ Fun fact **www.inselfo.com**
 
----
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
-### Serie 2 — Los 6 Gases de Pezesco
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://dev.to/pezesco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pezesco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user23274074" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user23274074" height="30" width="40" /></a>
+<a href="https://codesandbox.com/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://kaggle.com/ittalo pezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ittalo pezzotti" height="30" width="40" /></a>
+<a href="https://fb.com/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://dribbble.com/ifpescobar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ifpescobar" height="30" width="40" /></a>
+<a href="https://www.behance.net/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://medium.com/@ifpezzottie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ifpezzottie" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/biotecnolife" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="biotecnolife" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/pezesco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pezesco" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/ittalopezzotti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ittalopezzotti" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/pezesco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="pezesco" height="30" width="40" /></a>
+<a href="/https://rss.com/podcasts/pezescodev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://rss.com/podcasts/pezescodev/" height="30" width="40" /></a>
+</p>
 
-Un segundo libro completo, independiente del Firmware Humano,
-que desarrolla el concepto de los **6 gases** como metáfora
-de los estados fundamentales de la conciencia humana:
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://jekyllrb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-| Gas | Estado | Descripción |
-|-----|--------|-------------|
-| 🔴 Gas 1 | En desarrollo | — |
-| 🟠 Gas 2 | En desarrollo | — |
-| 🟡 Gas 3 | En desarrollo | — |
-| 🟢 Gas 4 | En desarrollo | — |
-| 🔵 Gas 5 | En desarrollo | — |
-| 🟣 Gas 6 | En desarrollo | — |
 
-> La descripción completa de cada gas se publicará
-> con los primeros experimentos del libro.
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/ifpezzottia"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ifpezzottia" /></a><a href="https://ko-fi.com/PEZESCO"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="PEZESCO" /></a></p><br><br>
 
----
 
-## 🔬 El autor
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ittalopezzotti&show_icons=true&locale=en&layout=compact" alt="ittalopezzotti" /></p>
 
-**Ittalo Francisco Pezzotti Escobar**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ittalopezzotti&show_icons=true&locale=en" alt="ittalopezzotti" /></p>
 
-Investigador del **CNR-IEIIT** (Consiglio Nazionale delle Ricerche)
-en Milán, especializado en biosensores y sensores de gas.
-Doctor en Ingeniería de Sistemas Sensoriales (Roma Tor Vergata).
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ittalopezzotti&" alt="ittalopezzotti" /></p>
 
-El nombre **INSELFO** viene de su metodología de investigación
-personal — 40 años de agendas escritas, 80 cuadernos,
-el "viaje en el tiempo cerebral" que es el eje central
-tanto del Firmware Humano como de Los 6 Gases.
 
----
-
-## 🗂️ Estructura del repositorio
-
-```
-INSELFO-COM/
-├── 📁 FirmwareHumano-Tomo4/
-│   ├── README.md
-│   └── experimentos/     ← En construcción
-│
-├── 📁 Los6GasosDePezesco/
-│   ├── README.md
-│   └── libro/            ← En construcción
-│
-└── 📄 README.md          ← Estás aquí
-```
-
----
-
-## 🔗 El ecosistema completo de 10 libros
-
-### Firmware Humano Programado (5 tomos)
-
-| Tomo | Estado | Repositorio |
-|------|--------|-------------|
-| Tomo 1 — Sin salida | ✅ Completo | [BIOTECNOLIFE](https://github.com/orgs/BIOTECNOLIFE) |
-| Tomo 2 — Con salida | ✅ Completo | [PEZESCOBAR](https://github.com/orgs/PEZESCOBAR) |
-| Tomo 3 | 🔄 En desarrollo | Próximamente |
-| **Tomo 4** | 🔄 En desarrollo | **Estás aquí** |
-| Tomo 5 | 🔄 En desarrollo | Próximamente |
-
-### Los 6 Gases de Pezesco (5 tomos)
-
-| Tomo | Estado | Repositorio |
-|------|--------|-------------|
-| Los 6 Gases — Tomo 1 | 🔄 En desarrollo | **Estás aquí** |
-| Los 6 Gases — Tomo 2 | 🔄 En desarrollo | Próximamente |
-| Los 6 Gases — Tomo 3 | 🔄 En desarrollo | Próximamente |
-| Los 6 Gases — Tomo 4 | 🔄 En desarrollo | Próximamente |
-| Los 6 Gases — Tomo 5 | 🔄 En desarrollo | Próximamente |
-
----
-
-## 🛠️ Tecnología
-
-```
-Hardware      Arduino Mega · ESP32 · Sensores especializados
-Firmware      C/C++ · Arduino IDE v2
-Backend       Python · Django · REST API
-IA            Claude API (Anthropic) — integrado en los experimentos
-Datos         SD Card · EEPROM · SQLite
-```
-
----
-
-## 💬 Seguir el desarrollo
-
-**[Watch](../../watchers)** este repositorio para recibir
-notificaciones cuando se publiquen nuevos experimentos.
-
-**[Discussions](../../discussions)** para preguntas,
-sugerencias o si quieres colaborar en el desarrollo.
-
----
-
-## 📬 Contacto
-
-- **GitHub personal:** [ittalopezzotti](https://github.com/ittalopezzotti)
-- **CNR-IEIIT:** [ieiit.cnr.it](https://www.ieiit.cnr.it)
-- **LinkedIn:** [Ittalo Pezzotti](https://linkedin.com)
-
----
-
-<div align="center">
-
-*"Dos series. Un mismo investigador.*
-*Una misma pregunta: ¿qué somos realmente,*
-*cuando el firmware se queda en silencio?"*
-
-**© Ittalo Francisco Pezzotti Escobar — Milán, 2026**
-
-</div>
